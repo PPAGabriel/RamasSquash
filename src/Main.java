@@ -5,5 +5,6 @@ public class Main {
         //Nico Colaborador
 
         System.out.println("A");
+        System.out.println("B");
     }
 }
